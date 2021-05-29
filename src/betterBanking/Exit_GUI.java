@@ -33,7 +33,7 @@ public class Exit_GUI {
 		this.frame.setResizable(false);
 		this.frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		
-		this.exitLabel.setBackground(new Color(0, 153, 153));
+		this.exitLabel.setBackground(new Color(178, 196, 207));
 		this.exitLabel.setHorizontalAlignment(SwingConstants.CENTER);
 		this.exitLabel.setFont(new Font("Consolas", Font.ITALIC, 22));
 		this.exitLabel.setText(exitMessage);
