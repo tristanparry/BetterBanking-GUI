@@ -1,6 +1,6 @@
 package betterBanking;
 
-//IMPORT STATEMENTS
+// IMPORT STATEMENTS
 import java.awt.Font;
 import java.awt.Toolkit;
 import java.io.File;
