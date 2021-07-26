@@ -1,3 +1,4 @@
+![betterbanking](https://user-images.githubusercontent.com/64918749/126926953-ebb557d6-78fc-4019-b9f8-2d52c1cdb52e.png)
 # BetterBanking (GUI)
 
 Thank you for using the GUI version of [<i>BetterBanking!</i>](https://github.com/tristanparry/BetterBanking-GUI) This is a software that allows a user to create a Client account, and up to 3 bank Accounts (<i>Chequing, Savings, Investment</i>).
